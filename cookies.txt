@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+webmail.telkomsa.net	TRUE	/	FALSE	1999999999	ZM_TEST	true
+webmail.telkomsa.net	TRUE	/	FALSE	1999999999	ZM_LOGIN_CSRF	e8ecb865-369e-440f-b8a2-8388dbfb52c4
+

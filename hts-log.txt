@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 16 Jun 2023 09:29:45 at https://webmail.telkomsa.net/mail/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://webmail.telkomsa.net/mail/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://webmail.telkomsa.net/mail/ -O1 "C:\Users\Fox\Desktop\tec\tec" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://webmail.telkomsa.net/mail/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 14 links scanned, 13 files written (439988 bytes overall) [192192 bytes received at 27456 bytes/sec], 336720 bytes transferred using HTTP compression in 7 files, ratio 23%, 2.3 requests per connection
+(No errors, 0 warnings, 0 messages)
